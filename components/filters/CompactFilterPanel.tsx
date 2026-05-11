@@ -47,17 +47,13 @@ export function CompactFilterPanel() {
     }
   }, [filters.businessType, selectedSegmentType, hasB2BSegmentation, selectedSegments.length])
 
-  // Geography mode + Global only: omit "By Country" — switch away if selected
+  // Global-only: omit "By Country" — switch away if selected (all view modes)
   useEffect(() => {
     if (!data?.dimensions?.segments) return
     const onlyGlobal =
       filters.geographies.length === 0 ||
       (filters.geographies.length === 1 && filters.geographies.includes('Global'))
-    if (
-      filters.viewMode !== 'geography-mode' ||
-      !onlyGlobal ||
-      selectedSegmentType !== 'By Country'
-    ) {
+    if (!onlyGlobal || selectedSegmentType !== 'By Country') {
       return
     }
 
@@ -73,7 +69,6 @@ export function CompactFilterPanel() {
       } as any)
     }
   }, [
-    filters.viewMode,
     filters.geographies,
     selectedSegmentType,
     data,
@@ -144,7 +139,7 @@ export function CompactFilterPanel() {
     (filters.geographies.length === 1 && filters.geographies.includes('Global'))
 
   let segmentTypesList = allSegmentTypes
-  if (filters.viewMode === 'geography-mode' && hasOnlyGlobalCompact) {
+  if (hasOnlyGlobalCompact) {
     segmentTypesList = segmentTypesList.filter((type) => type !== 'By Country')
   }
 

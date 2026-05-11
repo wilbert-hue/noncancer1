@@ -26,6 +26,24 @@ export function SegmentMultiSelect() {
     }
   }, [isOpen])
 
+  const hasOnlyGlobal =
+    filters.geographies.length === 0 ||
+    (filters.geographies.length === 1 && filters.geographies.includes('Global'))
+
+  useEffect(() => {
+    if (!data?.dimensions?.segments) return
+    if (!hasOnlyGlobal || filters.segmentType !== 'By Country') return
+    const nextTypes = Object.keys(data.dimensions.segments).filter((t) => t !== 'By Country')
+    const next = nextTypes[0]
+    if (next) {
+      updateFilters({
+        segmentType: next,
+        segments: [],
+        advancedSegments: [],
+      } as Parameters<typeof updateFilters>[0])
+    }
+  }, [hasOnlyGlobal, filters.segmentType, filters.geographies, data, updateFilters])
+
   const segmentOptions = useMemo(() => {
     if (!data || !filters.segmentType) return []
     
@@ -199,7 +217,9 @@ export function SegmentMultiSelect() {
 
   const selectedCount = filters.segments.length
   const allSegmentTypes = Object.keys(data.dimensions.segments)
-  const segmentTypes = allSegmentTypes
+  const segmentTypes = hasOnlyGlobal
+    ? allSegmentTypes.filter((t) => t !== 'By Country')
+    : allSegmentTypes
 
   return (
     <div className="space-y-4" ref={dropdownRef}>

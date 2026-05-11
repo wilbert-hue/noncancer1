@@ -14,6 +14,16 @@ const XLSX_PATH = path.join(
   'Final Updated_Dataset-Global Monoclonal Antibodies for Cancer and Non-Cancer Diagnostics Market.xlsx'
 )
 
+/** Canonical display labels for segments that differ from the Excel source. */
+const SEGMENT_LABEL_ALIASES = {
+  'LFA / RDT / Immunochromatography': 'Lateral Flow Assay / RDT / Immunochromatography',
+}
+
+function aliasSegmentLabel(label) {
+  const s = String(label ?? '').trim()
+  return SEGMENT_LABEL_ALIASES[s] ?? s
+}
+
 function parseYearColumns(headerRow) {
   const yearCols = []
   for (let c = 4; c < headerRow.length; c++) {
@@ -62,8 +72,8 @@ function main() {
     const row = rows[i]
     const region = String(row[0] ?? '').trim()
     const segmentType = String(row[1] ?? '').trim()
-    const sub = String(row[2] ?? '').trim()
-    const sub1 = String(row[3] ?? '').trim()
+    const sub = aliasSegmentLabel(row[2])
+    const sub1 = aliasSegmentLabel(row[3])
 
     if (!region || !segmentType || !sub || !sub1) continue
 

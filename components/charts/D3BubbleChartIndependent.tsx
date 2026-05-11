@@ -234,7 +234,45 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
   const isOpportunityMode = selectedChartGroup === 'coherent-opportunity'
   const activeFilters = isOpportunityMode ? opportunityFilters : filters
   const updateActiveFilters = isOpportunityMode ? updateOpportunityFilters : updateFilters
-  
+
+  const hasOnlyGlobal =
+    activeFilters.geographies.length === 0 ||
+    (activeFilters.geographies.length === 1 && activeFilters.geographies.includes('Global'))
+
+  const segmentTypeKeysForSelect = useMemo(() => {
+    const keys = data?.dimensions?.segments ? Object.keys(data.dimensions.segments) : []
+    if (!hasOnlyGlobal) return keys
+    return keys.filter((t) => t !== 'By Country')
+  }, [data, hasOnlyGlobal])
+
+  useEffect(() => {
+    if (!data?.dimensions?.segments) return
+    if (!hasOnlyGlobal || activeFilters.segmentType !== 'By Country') return
+    const next = segmentTypeKeysForSelect[0]
+    if (!next) return
+    if (isOpportunityMode) {
+      updateOpportunityFilters({
+        segmentType: next,
+        segments: [],
+        advancedSegments: [],
+      } as Parameters<typeof updateOpportunityFilters>[0])
+    } else {
+      updateFilters({
+        segmentType: next,
+        segments: [],
+        advancedSegments: [],
+      } as Parameters<typeof updateFilters>[0])
+    }
+  }, [
+    hasOnlyGlobal,
+    activeFilters.segmentType,
+    data,
+    segmentTypeKeysForSelect,
+    isOpportunityMode,
+    updateFilters,
+    updateOpportunityFilters,
+  ])
+
   // State for error messages
   const [errorMessage, setErrorMessage] = useState<string | null>(null)
   const [debugInfo, setDebugInfo] = useState<any>(null)
@@ -271,8 +309,8 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
   // For regular mode: Keep existing logic
   const selectedGeography = activeFilters.geographies.length > 0 ? activeFilters.geographies[0] : 
     (data?.dimensions?.geographies?.all_geographies?.[0] || '')
-  const selectedSegmentType = activeFilters.segmentType || 
-    (data?.dimensions?.segments ? Object.keys(data.dimensions.segments)[0] : '')
+  const selectedSegmentType =
+    activeFilters.segmentType || segmentTypeKeysForSelect[0] || ''
 
   // Get hierarchy for cascade filter (for opportunity mode)
   const segmentDimension = data?.dimensions?.segments?.[selectedSegmentType]
@@ -1570,13 +1608,11 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
               }}
               className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm text-black"
             >
-              {data?.dimensions?.segments ? Object.keys(data.dimensions.segments)
-                // Show all segment types for both value and volume data
-                .map(option => (
+              {segmentTypeKeysForSelect.map(option => (
                 <option key={option} value={option}>
                   {option}
                 </option>
-              )) : null}
+              ))}
             </select>
           </div>
         </div>

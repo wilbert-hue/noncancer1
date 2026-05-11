@@ -72,17 +72,13 @@ export function EnhancedFilterPanel() {
     }
   }, [filters.geographies, selectedSegmentType, data])
 
-  // Geography mode + Global only: no "By Country" at Global level — switch away if selected
+  // Global-only scope: no country-level "By Country" tree — omit from segment types
   useEffect(() => {
     if (!data?.dimensions?.segments) return
     const onlyGlobal =
       filters.geographies.length === 0 ||
       (filters.geographies.length === 1 && filters.geographies.includes('Global'))
-    if (
-      filters.viewMode !== 'geography-mode' ||
-      !onlyGlobal ||
-      selectedSegmentType !== 'By Country'
-    ) {
+    if (!onlyGlobal || selectedSegmentType !== 'By Country') {
       return
     }
 
@@ -98,7 +94,6 @@ export function EnhancedFilterPanel() {
       } as any)
     }
   }, [
-    filters.viewMode,
     filters.geographies,
     selectedSegmentType,
     data,
@@ -312,8 +307,8 @@ export function EnhancedFilterPanel() {
     ? allSegmentTypes
     : allSegmentTypes.filter(type => type !== 'By Region')
 
-  // Geography mode + Global: no country breakdown exists at Global — omit "By Country"
-  if (filters.viewMode === 'geography-mode' && hasOnlyGlobal) {
+  // Global-only: no country breakdown at Global — omit "By Country" in all view modes
+  if (hasOnlyGlobal) {
     filteredSegmentTypes = filteredSegmentTypes.filter((type) => type !== 'By Country')
   }
 
