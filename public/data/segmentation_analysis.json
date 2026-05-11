@@ -1,0 +1,3775 @@
+{
+  "Global": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Region": {
+      "North America": {
+        "North America": {}
+      },
+      "Europe": {
+        "Europe": {}
+      },
+      "Asia Pacific": {
+        "Asia Pacific": {}
+      },
+      "Latin America": {
+        "Latin America": {}
+      },
+      "Middle East": {
+        "Middle East": {}
+      },
+      "Africa": {
+        "Africa": {}
+      }
+    }
+  },
+  "North America": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Country": {
+      "U.S.": {
+        "U.S.": {}
+      },
+      "Canada": {
+        "Canada": {}
+      }
+    }
+  },
+  "U.S.": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Canada": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Europe": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Country": {
+      "U.K.": {
+        "U.K.": {}
+      },
+      "Germany": {
+        "Germany": {}
+      },
+      "Italy": {
+        "Italy": {}
+      },
+      "France": {
+        "France": {}
+      },
+      "Spain": {
+        "Spain": {}
+      },
+      "Russia": {
+        "Russia": {}
+      },
+      "Rest of Europe": {
+        "Rest of Europe": {}
+      }
+    }
+  },
+  "U.K.": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Germany": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Italy": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "France": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Spain": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Russia": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Rest of Europe": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Asia Pacific": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Country": {
+      "China": {
+        "China": {}
+      },
+      "India": {
+        "India": {}
+      },
+      "Japan": {
+        "Japan": {}
+      },
+      "South Korea": {
+        "South Korea": {}
+      },
+      "ASEAN": {
+        "ASEAN": {}
+      },
+      "Australia": {
+        "Australia": {}
+      },
+      "Rest of Asia Pacific": {
+        "Rest of Asia Pacific": {}
+      }
+    }
+  },
+  "China": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "India": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Japan": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "South Korea": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "ASEAN": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Australia": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Rest of Asia Pacific": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Latin America": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Country": {
+      "Brazil": {
+        "Brazil": {}
+      },
+      "Argentina": {
+        "Argentina": {}
+      },
+      "Mexico": {
+        "Mexico": {}
+      },
+      "Rest of Latin America": {
+        "Rest of Latin America": {}
+      }
+    }
+  },
+  "Brazil": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Argentina": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Mexico": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Rest of Latin America": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Middle East": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Country": {
+      "GCC": {
+        "GCC": {}
+      },
+      "Israel": {
+        "Israel": {}
+      },
+      "Rest of Middle East": {
+        "Rest of Middle East": {}
+      }
+    }
+  },
+  "GCC": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Israel": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Rest of Middle East": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Africa": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    },
+    "By Country": {
+      "North Africa": {
+        "North Africa": {}
+      },
+      "Central Africa": {
+        "Central Africa": {}
+      },
+      "South Africa": {
+        "South Africa": {}
+      }
+    }
+  },
+  "North Africa": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "Central Africa": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  },
+  "South Africa": {
+    "By Antibody Type": {
+      "Murine Antibodies": {
+        "Murine Antibodies": {}
+      },
+      "Rabbit Antibodies": {
+        "Rabbit Antibodies": {}
+      },
+      "Chimeric Antibodies": {
+        "Chimeric Antibodies": {}
+      },
+      "Humanized Antibodies": {
+        "Humanized Antibodies": {}
+      },
+      "Fully Human Antibodies": {
+        "Fully Human Antibodies": {}
+      },
+      "Recombinant Antibodies": {
+        "Recombinant Antibodies": {}
+      },
+      "Others (Bispecific & Conjugated Antibodies)": {
+        "Others (Bispecific & Conjugated Antibodies)": {}
+      }
+    },
+    "By Usage Techniques": {
+      "Enzyme-Linked Immunosorbent Assay (ELISA)": {
+        "Enzyme-Linked Immunosorbent Assay (ELISA)": {}
+      },
+      "Chemiluminescent Immunoassay (CLIA))": {
+        "Chemiluminescent Immunoassay (CLIA))": {}
+      },
+      "Western Blot (WB)": {
+        "Western Blot (WB)": {}
+      },
+      "Immunohistochemistry (IHC)": {
+        "Immunohistochemistry (IHC)": {}
+      },
+      "Immunoprecipitation (IP)": {
+        "Immunoprecipitation (IP)": {}
+      },
+      "Immunofluorescence (IF)": {
+        "Immunofluorescence (IF)": {}
+      },
+      "LFA / RDT / Immunochromatography": {
+        "LFA / RDT / Immunochromatography": {}
+      },
+      "Others (Immunocytochemistry (ICC) & Others)": {
+        "Others (Immunocytochemistry (ICC) & Others)": {}
+      }
+    },
+    "By Application / Disease Types": {
+      "Cancer": {
+        "Breast cancer": {},
+        "Prostate Cancer": {},
+        "Colorectal Cancer": {},
+        "Lymphoma / Hematology": {},
+        "Melanoma": {},
+        "Gastric and esophageal cancers": {},
+        "Endometrial cancer": {},
+        "Non-small cell lung cancer (NSCLC)": {},
+        "Small cell lung cancer (SCLC)": {},
+        "Others (Bladder cancer, Hepatocellular carcinoma (liver cancer, Cervical cancer, Neuroendocrine tumors, Ovarian cancer & Others)": {}
+      },
+      "Obstetrics": {
+        "Obstetrics": {}
+      },
+      "Dengue": {
+        "Dengue": {}
+      },
+      "Chikungunya": {
+        "Chikungunya": {}
+      },
+      "Helicobacter pylori": {
+        "Helicobacter pylori": {}
+      },
+      "Syphilis": {
+        "Syphilis": {}
+      },
+      "HIV (Human immunodeficiency virus)": {
+        "HIV (Human immunodeficiency virus)": {}
+      },
+      "Others (Rheumatoid arthritis, & Others)": {
+        "Others (Rheumatoid arthritis, & Others)": {}
+      }
+    },
+    "By End User": {
+      "Clinical & Diagnostic Laboratories": {
+        "Clinical & Diagnostic Laboratories": {}
+      },
+      "Hospitals": {
+        "Hospitals": {}
+      },
+      "Biopharmaceutical Companies": {
+        "Biopharmaceutical Companies": {}
+      },
+      "Research Institutions": {
+        "Research Institutions": {}
+      },
+      "Others (Academic Institutes / Others)": {
+        "Others (Academic Institutes / Others)": {}
+      }
+    },
+    "By Distribution Channel": {
+      "Direct Sales/Offline": {
+        "Direct Sales/Offline": {}
+      },
+      "Online": {
+        "Online": {}
+      }
+    }
+  }
+}
