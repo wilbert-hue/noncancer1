@@ -16,7 +16,8 @@ const XLSX_PATH = path.join(
 
 /** Canonical display labels for segments that differ from the Excel source. */
 const SEGMENT_LABEL_ALIASES = {
-  'LFA / RDT / Immunochromatography': 'Lateral Flow Assay / RDT / Immunochromatography',
+  'LFA / RDT / Immunochromatography': 'Lateral Flow Assay',
+  'Lateral Flow Assay / RDT / Immunochromatography': 'Lateral Flow Assay',
 }
 
 function aliasSegmentLabel(label) {
